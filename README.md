@@ -8,6 +8,8 @@ A collection of Xcode tips that I see on the Internet
 
 [#3 Copy function's signature](https://github.com/imjhk03/XcodeTips#3-copy-functions-signature)
 
+[#4 Duplicate code](https://github.com/imjhk03/XcodeTips#4-duplicate-code)
+
 ### #1 Open Apple's Human Interface Guidelines
 This opens Apple's Human Interface Guidelines website.
 ```
@@ -26,4 +28,10 @@ This copies the function's signature, it is useful when writing technical docume
 ```
 // put the cursor over your function and press:
 shift + control + option + command + c
+```
+
+### #4 Duplicate code (Xcode 14 Beta 3)
+Duplicate code you've selected
+```
+command + D
 ```
